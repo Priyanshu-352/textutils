@@ -1,0 +1,22 @@
+
+.main{
+    margin :auto ; 
+    top: 0;
+    bottom: 0;
+    text-align: center;
+}
+.title {
+    margin:12px; 
+  font-size: calc(1.525rem + 3.3vw);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+}
+.container{
+  display: flex;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+
+}
