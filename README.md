@@ -15,3 +15,4 @@ TextUtils is a simple and fast web application built using React, HTML, and CSS 
 React.js – Frontend framework
 HTML5 – Structure
 CSS3 – Styling
+https://priyanshu-352.github.io/textutils/
